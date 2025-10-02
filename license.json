@@ -1,18 +1,9 @@
 {
-    "ABC123-XYZ789": {
+    "TEST-HYPER": {
       "active": true,
-      "domain": "example.com",
+      "domain": "hyper.rolexdev.tech",
       "advance_mode": true
     },
-    "DEF456-UVW111": {
-      "active": true,
-      "domain": "*.mydomain.com",
-      "advance_mode": false
-    },
-    "GHI789-OPQ222": {
-      "active": false,
-      "domain": "*",
-      "advance_mode": false
-    }
 }
+
   

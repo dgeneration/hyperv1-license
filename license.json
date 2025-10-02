@@ -1,0 +1,18 @@
+{
+    "ABC123-XYZ789": {
+      "active": true,
+      "domain": "example.com",
+      "advance_mode": true
+    },
+    "DEF456-UVW111": {
+      "active": true,
+      "domain": "*.mydomain.com",
+      "advance_mode": false
+    },
+    "GHI789-OPQ222": {
+      "active": false,
+      "domain": "*",
+      "advance_mode": false
+    }
+}
+  
